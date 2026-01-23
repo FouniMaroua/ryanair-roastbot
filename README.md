@@ -137,7 +137,3 @@ Both authors contributed equally to:
 This project is intended for educational and research purposes only.
 
 It is not affiliated with Ryanair and does not represent the company or its official communication.
-
-```
-
-
